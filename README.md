@@ -1,2 +1,0 @@
-# widgetapp
-A django projct
